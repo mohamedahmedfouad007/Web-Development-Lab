@@ -1,0 +1,38 @@
+body{background-color: white}
+.first{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.second{
+    background-color: white;
+    color:blue;
+    text-align: center;
+}
+.third{
+    background-color: white;
+    color:blue;
+    text-align: center;
+}
+.fourth{
+    background-color: white;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.fifth{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.sixth{
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+.seventh{
+    text-align: left;
+    margin-left: 600px;
+}
